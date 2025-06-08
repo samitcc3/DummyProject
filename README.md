@@ -14,7 +14,7 @@ This is a simple Java web app to demonstrate how to:
 - JDBC (with MySQL Connector/J)
 
 ## 📂 Project Structure
-//
+
 | File / Class         | Purpose                                                                 |
 |----------------------|-------------------------------------------------------------------------|
 | `dummyForm.jsp`      | The input form users see. Sends form data to `DummyServlet`.           |
@@ -23,7 +23,7 @@ This is a simple Java web app to demonstrate how to:
 | `ItemDAO.java`       | The **DAO** class. Handles SQL logic, inserts data into the DB.         |
 | `DBConnection.java`  | Utility class to manage JDBC connection to MySQL.                      |
 | `web.xml`            | Declares the welcome page and servlet routing config.                  |
-//
+
 ## 🧪 How to Run It
 
 1. Make sure MySQL is running.
